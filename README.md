@@ -10,7 +10,7 @@ Feel free to pick your own song and adjust the beats per minute accordingly!
 
 ### Download Unity Hub
 
-* Download Unity. This tutorial was created on version 2018.3.6f1, and other versions may possibly work
+* Download Unity. This tutorial was created on version 2021.3.13f1, and other versions may possibly work
 
 ### Create New Project
 
@@ -32,6 +32,7 @@ Feel free to pick your own song and adjust the beats per minute accordingly!
 
 * Delete Main Camera and Directional Light from the Scene
 * From Asset Store, get the Oculus Integration, and import it into the project
+* In Macos, when import this package, don't tick select Audio Spatializer. If you tick project gonna be crash.
 * From Assets→Oculus→VR→Prefabs, drag the OVRCameraRig into the scene
 
 ### Create World
